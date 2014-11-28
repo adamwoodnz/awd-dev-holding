@@ -1,0 +1,17 @@
+body {
+	padding: 100px;
+	text-align: center;
+	color: #fff;
+	font-size: 0.85em;
+	line-height: 1.4;
+	*font-size: small;
+	font-weight: 300;
+	overflow-x: hidden;
+
+	@include background(
+		radial-gradient(circle, rgba(0,0,0,0) 50%, rgba(0,0,0,.5) 100%),
+		url('http://www.adamwood.co.nz/wp-content/themes/adamwood/images/bg_texture1.jpg')
+	);
+	background-color: $grey-dark;
+	background-attachment: fixed;    overflow-y: scroll;
+}

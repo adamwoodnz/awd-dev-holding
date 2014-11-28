@@ -1,4 +1,6 @@
-# [HTML5 Boilerplate](http://html5boilerplate.com)
+# [AWD Dev](http://www.awd-dev.co.nz) Holding Page Template
+
+This template is a fork of the [HTML5 Boilerplate](http://html5boilerplate.com)
 
 HTML5 Boilerplate is a professional front-end template for building fast,
 robust, and adaptable web apps or sites.
@@ -11,19 +13,10 @@ framework, so you're free to architect your code in the way that you want.
 * Homepage: [http://html5boilerplate.com](http://html5boilerplate.com)
 * Twitter: [@h5bp](http://twitter.com/h5bp)
 
+## AWD additions
 
-## Quick start
-
-Choose one of the following options:
-
-1. Download the latest stable release from
-   [html5boilerplate.com](http://html5boilerplate.com/) or a custom build from
-   [Initializr](http://www.initializr.com).
-2. Clone the git repo — `git clone
-   https://github.com/h5bp/html5-boilerplate.git` - and checkout the [tagged
-   release](https://github.com/h5bp/html5-boilerplate/releases) you'd like to
-   use.
-
+* SASS config and SMACSS partials
+* Holding text and countdown to redirection
 
 ## Features
 
